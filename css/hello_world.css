@@ -1,0 +1,53 @@
+h1 {
+    color: cyan;
+    text-align: center;
+    font-size: 75px;
+    margin: 0;
+    padding: 0;
+}
+
+.topOfPage {
+    background-color: black; opacity: 10;
+    margin: 0;
+    padding: 0;
+    height: 100%
+
+}
+
+body {
+    margin: 0;
+}
+
+#line1 {
+    height: 5px;
+    width: 100%;
+    background-color: black;
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+
+#line2 {
+    height: 3px;
+    width: 100%;
+    background-color: black;
+    margin-top: 2px;
+    margin-bottom: 0px;
+}
+
+#line3 {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+    margin-top: 1.5px;
+    margin-bottom: 0px;
+}
+
+.navBar {
+    position: fixed;
+    height: 10000px;
+    width: 150px;
+    margin-top: 0px;
+    background-color: #3a3e63;
+    border-color: black;
+    border-width: 1px;
+}
